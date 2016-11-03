@@ -4,7 +4,7 @@
 from Graphics import*
 import random
 from math import*
-import sys
+#import sys
 
 def makeGraph(graphType):
     if graphType in ("bipartite", "Bipartite"):
