@@ -16,6 +16,7 @@ This program was written using the Calico IDE.  If you do not have Calico you ca
 Calico is the ideal IDE to run it on, but if you are not using Calico, make sure you have downloaded the Graphics library for python.
 
 To run on Calico:
+
 1.  Download the file.
 2.  Press the green "Run Button."
 
